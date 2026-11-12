@@ -17,13 +17,5 @@
         "service": "app"
       }
     }
-  ],
-  "bindings": [
-    {
-      "type": "service",
-      "service": "web",
-      "format": "url",
-      "env": "WEB_APP_URL"
-    }
   ]
 }
